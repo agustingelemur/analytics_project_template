@@ -1,0 +1,8 @@
+save notebooks from Jupyter / Google Colab
+
+remember good practices when publishing notebooks:
+
+Structure your Notebook.
+Refactor & outsource code into modules.
+Make sure the execution order of the cells is correct.
+Name of the notebook should be descriptive.
