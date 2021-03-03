@@ -8,7 +8,7 @@
   Project name
   <br>
 </h1>
-<h4 align="center">Event definition for all PedidosYa's Vendor Portal plugins.</h4>
+<h4 align="center">Short description</h4>
 <p align="center">
   <a href="#why">Why?</a> •
   <a href="#what">What?</a> •
